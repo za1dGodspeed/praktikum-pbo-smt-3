@@ -47,7 +47,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/za1dGodspeed/praktikum-pbo-smt-3)
 
-All recap from OOP subject in my 3rd semester. File tidak lengkap dikarenakan sebagian praktikum tergabung dalam satu folder.
+Rekapitulasi tugas praktikum Pemrograman Berorientasi Objek selama semester 3. File tidak lengkap dikarenakan sebagian praktikum tergabung dalam satu folder. Praktikum untuk pekan kuliah ke-9 dan seterusnya dialihkan untuk mengerjakan <a href="https://github.com/za1dGodspeed/project-limangatus">proyek UAS</a>.
 
 ### Dibuat Menggunakan
 
